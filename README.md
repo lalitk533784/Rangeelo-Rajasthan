@@ -1,7 +1,6 @@
 # Rangeelo-Rajasthan
-# Rangeelo Rajasthan
 
-![Rangeelo Rajasthan](https://www.example.com/images/rangeelo-rajasthan.jpg)
+![Rangeelo Rajasthan]([https://www.example.com/images/rangeelo-rajasthan.jpg](https://th.bing.com/th/id/R.94315991be599cf8009df5b90230a48c?rik=O97mtoqMWnBHeQ&riu=http%3a%2f%2fwww.hindigraphics.in%2fwp-content%2fuploads%2f2019%2f01%2franjilo-rajasthan-1024x645.png&ehk=8Z34%2f4BHkEe9RT5LTPHkl5PEMV6mIKiZ18CxhHI96zA%3d&risl=&pid=ImgRaw&r=0))
 
 Welcome to the **Rangeelo Rajasthan** project! This README provides an overview of the project, its purpose, and instructions on how to set it up and use it.
 
